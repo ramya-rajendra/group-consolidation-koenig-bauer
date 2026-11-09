@@ -1,0 +1,14 @@
+item,entity,value_2024_eur_m,value_2025_eur_m,source
+parent_financial_assets,Koenig & Bauer AG,416.7,415.9,AR 2025 p.192
+parent_receivables_affiliated,Koenig & Bauer AG,123.1,96.2,AR 2025 p.59
+parent_payables_affiliated,Koenig & Bauer AG,132.1,180.0,AR 2025 p.192
+parent_net_result,Koenig & Bauer AG,-61.7,-53.5,AR 2025 p.193
+parent_dividend_income,Koenig & Bauer AG,38.5,9.4,AR 2025 p.59
+parent_profit_transfer_income,Koenig & Bauer AG,5.6,16.0,AR 2025 p.59
+parent_loss_absorption,Koenig & Bauer AG,-31.6,-8.9,AR 2025 p.59
+parent_investment_impairments,Koenig & Bauer AG,-6.4,-10.2,AR 2025 p.59
+group_equity,Group,331.2,343.1,Group balance sheet
+group_nci,Group,0.8,0.6,Group balance sheet
+group_goodwill,Group,39.8,39.8,"Notes, goodwill"
+group_net_result,Group,-69.8,-13.5,Group income statement
+group_oci_fx_translation,Group,2.6,-0.8,Statement of comprehensive income

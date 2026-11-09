@@ -1,0 +1,41 @@
+cu_code,company,country,currency,ownership,holding,equity_2025_eur_m,equity_2024_eur_m,scope_change
+KB0000,Koenig & Bauer AG,Germany,EUR,,Parent,199.7,253.2,
+KB0010,Koenig & Bauer Industrial GmbH,Germany,EUR,1,Direct,30.3,27.9,
+KB0020,Koenig & Bauer Sheetfed Management GmbH,Germany,EUR,1,Direct,0.1,0.1,
+KB0030,Koenig & Bauer Sheetfed AG & Co. KG,Germany,EUR,1,Direct,-33.1,-24.1,
+KB0040,Koenig & Bauer Digital & Webfed Management GmbH,Germany,EUR,1,Direct,0.1,0.1,
+KB0050,Koenig & Bauer Digital & Webfed AG & Co. KG,Germany,EUR,1,Direct,-144.6,-114.5,
+KB0060,Koenig & Bauer Banknote Solutions GmbH,Germany,EUR,1,Direct,256.5,256.5,
+KB0070,Koenig & Bauer Banknote Solutions (DE) GmbH,Germany,EUR,1,Indirect,126.3,126.3,
+KB0080,Koenig & Bauer Vision & Protection GmbH,Germany,EUR,1,Direct,12.0,11.5,
+KB0090,Koenig & Bauer Kyana GmbH,Germany,EUR,1,Direct,1.1,,New in scope
+KB0100,Koenig & Bauer Dry Coating GmbH,Germany,EUR,1,Direct,0.0,,New in scope
+KB0110,Koenig & Bauer Finance GmbH,Germany,EUR,1,Direct,0.1,0.1,
+KB0120,Koenig & Bauer Gießerei GmbH,Germany,EUR,1,Indirect,2.6,2.6,
+KB0130,Albert-Frankenthal GmbH,Germany,EUR,1,Direct,2.4,1.8,
+KB0140,Koenig & Bauer (DE) GmbH,Germany,EUR,1,Direct,0.4,0.4,
+KB0150,Koenig & Bauer Coding GmbH,Germany,EUR,1,Direct,21.3,21.3,
+KB0160,Koenig & Bauer MetalPrint GmbH,Germany,EUR,1,Direct,6.1,6.1,
+KB0170,Koenig & Bauer Kammann GmbH,Germany,EUR,1,Direct,2.5,2.5,
+KB0180,Koenig & Bauer (AT) GmbH,Austria,EUR,1,Indirect,34.6,29.9,
+KB0190,Holland Graphic Occasions B.V.,Netherlands,EUR,1,Direct,0.6,0.6,
+KB0200,Koenig & Bauer (FR) SAS,France,EUR,1,Direct,3.8,3.4,
+KB0210,Koenig & Bauer IT S.R.L.,Italy,EUR,1,Direct,2.9,3.1,
+KB0220,Koenig & Bauer Flexotecnica S.R.L.,Italy,EUR,1,Direct,0.8,0.9,Legal form changed
+KB0230,"Koenig & Bauer Iberica, S.A.",Spain,EUR,1,Direct,4.9,4.7,
+KB0240,Koenig & Bauer (ES) S.L.U.,Spain,EUR,1,Direct,1.0,0.9,
+KB0250,Koenig & Bauer (UK) Limited,UK,GBP,1,Direct,4.2,4.0,
+KB0260,Koenig & Bauer Grafitec s.r.o.,Czech Republic,CZK,1,Direct,20.6,19.8,
+KB0270,KBA-SWISS HOLDING SA,Switzerland,CHF,1,Indirect,48.1,48.2,
+KB0280,Koenig & Bauer Banknote Solutions SA,Switzerland,CHF,1,Indirect,85.1,77.5,
+KB0290,Koenig & Bauer Banknote Solutions International SA,Switzerland,CHF,1,Indirect,0.5,0.5,
+KB0300,Koenig & Bauer (CH) AG,Switzerland,CHF,1,Direct,2.7,2.6,
+KB0310,Koenig & Bauer (CEE) Sp. z o.o.,Poland,PLN,1,Direct,4.7,4.6,
+KB0320,Koenig Bauer Duran Karton Ambalaj Teknolojileri Sanayi A.Ş.,Turkey,TRY,0.9,Direct,3.8,4.5,
+KB0330,Koenig & Bauer (US) Inc.,USA,USD,1,Direct,40.7,34.5,
+KB0340,Koenig & Bauer (CA) Inc.,Canada,CAD,1,Indirect,0.5,,Now shown separately
+KB0350,"Koenig & Bauer LATAM, S.A.P.I. de C.V.",Mexico,MXN,1,Direct,3.9,3.6,
+KB0360,Koenig & Bauer KR Co. Ltd.,South Korea,KRW,1,Direct,0.6,,New in scope
+KB0370,"Koenig & Bauer (JP) Co., Ltd",Japan,JPY,1,Direct,0.3,,New in scope
+KB0380,Koenig & Bauer (HK) Co. Limited,China (Hong Kong),HKD,1,Direct,2.5,3.6,
+KB0390,"Koenig & Bauer Printing Machinery (Shanghai) Co., Limited",China,CNY,1,Direct,1.8,2.1,
